@@ -1,0 +1,13 @@
+node_modules/
+www/
+android/
+dist/
+release.keystore
+android/keystore.properties
+*.jks
+*.keystore
+.idea/
+*.iml
+local.properties
+.DS_Store
+*.log

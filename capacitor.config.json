@@ -1,0 +1,15 @@
+{
+  "appId": "com.jogodavelha.app",
+  "appName": "Jogo da Velha",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0f1419"
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#0f1419"
+    }
+  }
+}
